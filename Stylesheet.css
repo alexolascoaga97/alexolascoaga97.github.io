@@ -1,0 +1,10 @@
+/* Código CSS */
+
+.container {
+    display: flex; /* o inline-flex */
+  }
+
+  .box {display: flex;
+    align-items: flex-start;
+    height: 200px;
+}   
